@@ -22,7 +22,6 @@ plot(cars)
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 Creamos una secuencia de números
-
 numeros <- seq(1,100, by=1)
 De las que cogemos dos muestras al azar (x,y)
 
